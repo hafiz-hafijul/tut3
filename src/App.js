@@ -1,11 +1,11 @@
 import React from 'react';
 import './App.css';
-import Form from './Form/Form2'
+import MulForm2_1 from './Form/MulForm2_1'
 
 function App() {
   return (
     <div>
-      <Form />
+      <MulForm2_1 />
     </div>
   );
 }
